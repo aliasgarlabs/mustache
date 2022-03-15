@@ -8,7 +8,7 @@ This library passes all [mustache specification](https://github.com/mustache/spe
 
 ## Example usage
 ```dart
-import 'package:mustache/mustache.dart';
+import 'package:mustache_template/mustache_template.dart';
 
 main() {
 	var source = '''
